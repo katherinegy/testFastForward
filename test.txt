@@ -1,1 +1,1 @@
-Git testbranch --fastforward
+Is fastforward?
